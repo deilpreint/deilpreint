@@ -10,4 +10,4 @@
 - [Игры разума](https://github.com/deilpreint/frontend-project-44)
 - [Castaway](https://github.com/deilpreint/castaway-project)
 - [Shutdown Timer](https://github.com/deilpreint/Shutdown-Timer) на данный момент в активной разработке.
-- [currency-converter](https://github.com/deilpreint/currency-converter)
+- [Currency-converter](https://github.com/deilpreint/currency-converter)
