@@ -9,5 +9,6 @@
 
 - [Игры разума](https://github.com/deilpreint/frontend-project-44) --- Консольная игра на JS.
 - [Castaway](https://github.com/deilpreint/castaway-project) --- Одностраничный сайт.
-- [Shutdown Timer](https://github.com/deilpreint/Shutdown-Timer) --- Приложение, написанное на языке Python.    *на данный момент в активной разработке*
+- [Shutdown Timer](https://github.com/deilpreint/Shutdown-Timer) --- Приложение, написанное на языке Python.
 - [Currency-converter](https://github.com/deilpreint/currency-converter) --- Конвертер валют.
+- [2048](https://github.com/deilpreint/2048) --- Сайт с игрой 2048, Vite React.
