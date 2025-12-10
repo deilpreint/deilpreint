@@ -12,3 +12,5 @@
 - [Shutdown Timer](https://github.com/deilpreint/Shutdown-Timer) --- Приложение, написанное на языке Python.
 - [Currency-converter](https://github.com/deilpreint/currency-converter) --- Конвертер валют.
 - [2048](https://github.com/deilpreint/2048) --- Сайт с игрой 2048, Vite React.
+- [Task-Manager](https://github.com/deilpreint/Task-Manager) --- Сайт по планированию задач, написан без стилей. Vite React
+- [Shop](https://github.com/deilpreint/react-maket) --- Сайт магазина одежды с интерактивными кнопками. Vite React.
